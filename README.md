@@ -1,2 +1,2 @@
 # DMS
-Document Management System
+Basic Document Management System
